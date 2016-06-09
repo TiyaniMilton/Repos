@@ -9,7 +9,7 @@ namespace WindowsFormsApplication1
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.ddfd
+        /// The main entry point for the application.ddfd wqewqweasds
         /// </summary>
         [STAThread]
         static void Main()
