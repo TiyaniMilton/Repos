@@ -11,7 +11,7 @@ namespace WindowsFormsApplication4
         /// <summary>
         /// The main entry point for the application.
         /// Superman2.2
-        /// /// </summary>
+        /// </summary>
         [STAThread]
         static void Main()
         {
